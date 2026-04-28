@@ -1,2 +1,7 @@
-# demo-gentile-salvador
-Demo web para Gentile Salvador — diseñada por eterlab.
+# Gentile Salvador
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
